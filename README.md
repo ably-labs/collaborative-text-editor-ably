@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is no longer being maintained as of March 2026.
+
 This is a WIP demo of a collaborative text editor built with [Ably Collaboration SDK](https://github.com/ably-labs/spaces).
 
 ## How to run it locally
